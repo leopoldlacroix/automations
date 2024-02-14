@@ -9,7 +9,7 @@ To use the scripts as a bookmarklet, follow these steps:
 
 1. Copy the JavaScript code from [myte_workhours.js](myte_workhours.js).
 2. Create a new bookmark in your web browser.
-3. Paste the copied JavaScript code into the URL field of the bookmark.
+3. Paste the copied JavaScript code into the URL field of the bookmark (modify the values according to your necessity).
 4. Save the bookmark.
 
 ## Usage
