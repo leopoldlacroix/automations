@@ -8,8 +8,8 @@ The first script, called MyTe, fills out a specific form on the MyTe site automa
 To use the scripts as a bookmarklet, follow these steps:
 
 1. Copy the JavaScript code from [myte_workhours.js](myte_workhours.js).
-2. Create a new bookmark in your web browser.
-3. Paste the copied JavaScript code into the URL field of the bookmark.
+2. Create a new bookmark in your web browser and edit it to see the URL field.
+3. Paste the copied JavaScript code into the URL field of the bookmark (modify the values according to your necessity).
 4. Save the bookmark.
 
 ## Usage
